@@ -1,5 +1,5 @@
 # erlangError
-Current system information picture of this bug.         ----> bug_system_top_info.png 
+Current system information picture of this bug.         ----> bug_system_top_info_load.png
 #
 Current report of this bug.                             ----> report_bug_high_load.txt
 #
