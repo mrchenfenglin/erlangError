@@ -12,5 +12,7 @@ Report of normal operation.                             ----> report_nomarl_low_
 code                                                    ----> processTest.erl
 #
 run：
+
 root$ erl -jperf
+
 1>processTest:testProcess(10000).
